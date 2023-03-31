@@ -1,6 +1,6 @@
 Name:		texlive-gfsneohellenicmath
 Version:	63928
-Release:	1
+Release:	2
 Summary:	A math font in the Neo-Hellenic style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gfsneohellenicmath
